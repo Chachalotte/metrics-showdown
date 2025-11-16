@@ -8,6 +8,7 @@ With the power of libraries like ChartJS, PrimeNG, and Tailwind, render any data
 
 - Finish the views model on Figma
 - Add a frontpage proposing different template which will initialize base widgets based on your choices (Finance, Sports, Gaming, etc.), alongside a tutorial to learn and navigate across the app smoothly
+- Create a backend to save users choices instead of only cached data
 
 ## Initializing Developement Environment
 
