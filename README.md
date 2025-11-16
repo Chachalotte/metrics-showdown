@@ -4,6 +4,11 @@ Metrics Showdown is a web app built on Angular 20.
 
 With the power of libraries like ChartJS, PrimeNG, and Tailwind, render any data of your dream in dynamic views that contains pleasing charts, widget, and table to look at.
 
+## TODO List
+
+- Finish the views model on Figma
+- Add a frontpage proposing different template which will initialize base widgets based on your choices (Finance, Sports, Gaming, etc.), alongside a tutorial to learn and navigate across the app smoothly
+
 ## Initializing Developement Environment
 
 To start a local development server, run:
